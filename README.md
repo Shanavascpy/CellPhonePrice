@@ -7,7 +7,7 @@ Also we get some information about how different features of mobile related the 
 
 Here,we use three Models to train and predict the data [Logisitic Reggression, Support Vector Machine , Decision Tree] and make a comparison on which model is performing well.
 
-The Logistic Regression model is performing well the a good accuracy score.
+The Logistic Regression model is performing well with a good accuracy score.
 
 
 
