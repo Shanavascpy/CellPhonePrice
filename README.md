@@ -10,6 +10,8 @@ Objective:To Predict the price range of a cell phone based on the given features
 - The Logistic Regression model is performing well with a good accuracy score.
 
 # Documents:
-- Cellphonprice.ipynb: Python File in Jupyter notebook
-- README.md:
+- **/notebooks/**: Jupyter Notebooks for each task
+- **/data/**: Processed Data Files
+- **README.md**: Detailed Explanation of the Project
+:
 
